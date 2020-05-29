@@ -1,6 +1,6 @@
 # Welcome to my blog
 ### Blog is authored by Otabek Sadiridinov
 
-## POSTS:
+## TOPICS:
 
-### [MultiLanguage website in Quasar](multi-language-website-in-quasar.md)
+### [Quasar framework](./quasar/README.md)
