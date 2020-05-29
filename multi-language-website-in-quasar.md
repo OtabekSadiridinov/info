@@ -1,9 +1,8 @@
 # Installing the VueI18N language switch
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ###### To install manually write ``npm install yarn --save`` or ``yarn add i18n --save``.But, Note that! When Quasar project was created (during the installation) it was isntalled. If you're creating new project just click or select the ``vue18n`` with space keyboard key.
-#
-#### To set the VueI18N correctly
+
+## Setting VueI18N correctly
 > Note that the following files will be automatically created with the project if you selected them during the installation. Just if you don't see them. Then create these files.
 
   **1. Create a `i18n.js` boot file in `src/boot/` folder.**
