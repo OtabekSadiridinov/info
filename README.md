@@ -1,6 +1,6 @@
-## Welcome to mn blog
-#### Blog is authored by Otabek Sadiridinov
+# Welcome to my blog
+### Blog is authored by Otabek Sadiridinov
 
-### POSTS:
+## POSTS:
 
-# [MultiLanguage website in Quasar](multi-language-website-in-quasar.md)
+### [MultiLanguage website in Quasar](multi-language-website-in-quasar.md)
